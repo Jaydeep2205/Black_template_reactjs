@@ -1,0 +1,31 @@
+.Header{
+    color: white;
+    padding-left: 30px;
+    font-size: larger;
+    display: flex;
+  }
+  .Search{
+    padding-left: 120vh;
+    display: flex;
+  } 
+  
+  .icon{
+    display: flex;
+    padding-left: 10px;
+    font-size: larger;
+  }
+  .input{
+    background-color: rgb(255, 255, 255);
+    color:black;
+    border-radius: 10px;
+    font-size: medium;
+    text-align: left;
+  }
+  .button{ 
+    background-color: rgb(28, 28, 46);
+    margin-left: 5px;
+    border-radius: 5px;
+    font-size: medium;
+    border-color: azure;
+    color: whitesmoke;
+  }
